@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "musicroom-d0a38",
+  "private_key_id": "915e752377562b4d06f3b0e8210a08cccdc174d0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrxqzL7+pHweE2\nB5QmvAkQVmCqwuZr+jb42MEoTPMzGS+H4Jm/t/AgW0ZE1qAHtIkBz0QrBrSKAm71\njRQjdHXpq/vzn8OFxr5dLYnDrJqP/oT3xx7bSV7v1qHPd0oxf3nXiw5E0mZG59fr\nS+lI/m50I+Ciku16MtkFxKA7Q7zxBGFxIfFGyb5Kc7irHXM9H27oZ/w1FBZxdR6z\nvag8pUaDppo2umuZkC+pd0Gxnw52s2xVHJH7QvZMo/l8iKxDPy3qHunoUMtFWcNg\nGjBy+g5v/DPlLNk5yb8AcbTfrInFWHXGGcaYnpQKO3aoKMiQjyOO13gnijzfAsrN\nzIjQ+pn/AgMBAAECggEACuhTOaHy5PqVM+qYSDthcfWiLsWwfwPE8NlGrqnwOXrs\nbzreWHO0HkHdfOqJ/+NBXemM4RSMa0ULSbFbKYMwJ5Xhqk8nSbvcg6ssF85ChEk7\npUYyGeeXTTB6VuOyxODc2kh8r/cSQodfSRQpbJanad2LWpds1/kZmcmqCQlcmos7\nU0qRsjulrDrTOdzMP7f3czpgT+LLq6iRnQHy9SvmszAvhtaroIyW7UK9fTMM+E7Y\nzEF6pbhK4kbRTlHe8sNc748XPD1MXwzh9WHr/Ys/ew/ucGv1D0Z/m1ZCYHQoc2da\nLZBx3R2TcAp/4kblgO7J2jNdIljuX8nRYT5eSu7geQKBgQDtu2Xfr6/yQEHnHIz4\nbmtPHOQFuddesonaj8FZiVEIRQTcMWMnq80SG80t8yWh3TpD3IKe6FwXVBYi7gOK\nz1WnAcfRJxqOE3CCA962PZz5jCs+BnCuqEiEu0g/86G+kwro+Z8lPnlvN+RHSyM8\n1yRfGxmQJmsRIfQD4f4tNGy8twKBgQC4+c8T+IV8sP8CRCix5O2xbDzJOFTj4vPs\nWiWWRGyE695iVFDO6Un16lQP30pyNMhK0lYqHmDZ8/1M77RzchvtZgQvdvWrv8CH\n7xQ84Pq3Lni++c79zQyJ2gJB+TRalk9MVbbb8VM3XJJOiP0R7rvUDBLW842r1SkI\nvWB08A1U+QKBgBiz8mAOB4BqwO5c/yEJiEkOPXuC1ihW8RAvA+5j4HG1ik2/LAiB\nR6vsC6QMsgphzJ4kmcYdawRZjntOtDuGU+YovzSylYXR60z3Tfst59PehtfJH4hm\noDJ6q4VJsbL14JpY5fqexUuTSTtHSYAW8waW8E8UTufW2V5V622TFwF9AoGAdILl\nLG8dpazW81Z7S5InJdpHb3dMAT6y5eziQARZVmA7czQosiu/qmYvDNBY1BbrEjXq\nkB0SZDaLFirmPtFhRec8O6lylPvzCaxN0wri4P8kjyZKexLtEud/BI8zqtuCl1Jm\nG6OmBvkILu+ad/En3ii8tSgz1Egv0JF4cC/ENgECgYBMobj9o5gZVeOgf8YR5ZT1\nBN/I8Nv/p8hDAjm6G2lDuMj949khv3Kdsj2VupqH5RIMoUuMDYKaTvSgwZqNib/j\nL1WY1bOdDnkrr0qwhcJm19oMusGdRmwS6gj2oNB5QN1SfGa4L00jejHHC7c8bazK\nsBcu1i0mpVaO+hoA35sniA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-se05l@musicroom-d0a38.iam.gserviceaccount.com",
+  "client_id": "114244137502398074308",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-se05l%40musicroom-d0a38.iam.gserviceaccount.com"
+}

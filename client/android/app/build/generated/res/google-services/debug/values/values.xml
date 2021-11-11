@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">631539381525-db8ik4guh436sa6umu3tu1q5ne55t8qi.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">631539381525</string>
+    <string name="google_api_key" translatable="false">AIzaSyB90HWc1eUA58WIUw9IhicW3N3Qy-ATNUI</string>
+    <string name="google_app_id" translatable="false">1:631539381525:android:8d8a6c9d4406e874afa51c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB90HWc1eUA58WIUw9IhicW3N3Qy-ATNUI</string>
+    <string name="google_storage_bucket" translatable="false">musicroom-d0a38.appspot.com</string>
+    <string name="project_id" translatable="false">musicroom-d0a38</string>
+</resources>
