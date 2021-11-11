@@ -839,7 +839,11 @@ class SignupButton extends StatelessWidget {
                   : null,
               child: Text(
                 "Confirm",
-                style: TextStyle(fontSize: 22),
+                style: TextStyle(
+                    fontSize: 22,
+                    color: context.read<SignupBloc>().state.buttonStatus != true
+                        ? Colors.grey.shade700
+                        : Colors.white),
               ),
               style: ButtonStyle(
                 shape: MaterialStateProperty.all<RoundedRectangleBorder>(

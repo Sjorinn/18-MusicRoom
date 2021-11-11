@@ -105,12 +105,6 @@ class UnloggedHome extends StatelessWidget {
                           ),
                         ],
                       )),
-                      Text(
-                        "by dihauet",
-                        style: TextStyle(
-                          color: Colors.grey.shade700,
-                        ),
-                      )
                     ],
                   ),
                 ),
